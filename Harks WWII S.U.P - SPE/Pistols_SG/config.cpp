@@ -39,7 +39,7 @@ class CfgWeapons{
 			};
 		};
 	};	
-
+};
 class CfgSounds{
 	class SPE_emptyBoltSnap_1911{
 		name = "SPE_emptyBoltSnap_1911";
