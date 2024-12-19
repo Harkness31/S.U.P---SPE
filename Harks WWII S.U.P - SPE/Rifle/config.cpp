@@ -8,9 +8,9 @@ class CfgPatches {
 	};
 };
 
-class Mode_SemiAuto;	// External class reference
-class Mode_Burst;	// External class reference
-class Mode_FullAuto;	// External class reference
+class Mode_SemiAuto;
+class Mode_Burst;
+class Mode_FullAuto;
 
 class CfgWeapons{
 	class Rifle_Base_F;
@@ -45,23 +45,6 @@ class CfgWeapons{
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
 				soundSetShot[] = {"SPE_garand_Shot_SoundSet","SPE_rifle2_Tail_SoundSet","SPE_garand_stereoLayer_SoundSet","Large_Reflection_DMR_SoundSet","SPAR_17_Tail_SoundSet"};
-			};
-		};
-		class Far: Single{
-			showToPlayer = 0;
-		};
-		class Medium: Single{
-			showToPlayer = 0;
-		};
-		class Short: Single{
-			showToPlayer = 0;
-		};
-	};
-	class SPE_MAS_36: SPE_RIFLE{
-		class Single: Mode_SemiAuto{
-			class baseSoundModeType;
-			class StandardSound: baseSoundModeType{
-				soundsetshot[] = {};
 			};
 		};
 		class Far: Single{
