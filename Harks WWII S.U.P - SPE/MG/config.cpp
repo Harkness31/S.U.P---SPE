@@ -345,7 +345,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class Full: Mode_FullAuto{
@@ -353,7 +353,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class Far: Full{
@@ -375,7 +375,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class close: close{
@@ -383,7 +383,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class short: short{
@@ -391,7 +391,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class medium: medium{
@@ -399,7 +399,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class far: far{
@@ -407,7 +407,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 	};
@@ -417,7 +417,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class close: close{
@@ -425,7 +425,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class short: short{
@@ -433,7 +433,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class medium: medium{
@@ -441,7 +441,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class far: far{
@@ -449,7 +449,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {""PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 	};	
@@ -501,7 +501,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{  /////"Squad_MG42_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class Far: Full{
@@ -525,7 +525,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class close: close{
@@ -533,7 +533,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class short: short{
@@ -541,7 +541,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class medium: medium{
@@ -549,7 +549,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 		class far: far{
@@ -557,7 +557,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 	};	
