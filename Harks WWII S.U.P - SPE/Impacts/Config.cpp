@@ -151,7 +151,7 @@ class CfgAmmo {
     };
 
     class SPE_Bullet_AP_base: BulletBase {
-        soundSetSonicCrack[] = {"TankShellSonicCrack_SoundSet"};
+        soundSetSonicCrack[] = {"Squad_HeavySonicCrack_Sets"};
         SoundSetExplosion[] = {
             "Squad_AutoCannon_Explosions_Set","Squad_AutoCannon_Explosions_2_Set",
             "Squad_AutoCannon_Tail_Explosions_Set",
@@ -383,23 +383,16 @@ class CfgSoundSets {
 class CfgSoundShaders {
     class TankShellSonicCrack_SoundShader {
         samples[] = {
-            {"\SIG_Sounds\Impact\incoming\inc_shell-1.ogg", 1},
-            {"\SIG_Sounds\Impact\incoming\inc_shell-2.ogg", 1},
-            {"\SIG_Sounds\Impact\incoming\inc_shell-3.ogg", 1},
-            {"\SIG_Sounds\Impact\incoming\inc_shell-4.ogg", 1},
-            {"\SIG_Sounds\Impact\incoming\inc_shell-5.ogg", 1},
-            {"\SIG_Sounds\Impact\incoming\inc_shell-6.ogg", 1},
-            {"\SIG_Sounds\Impact\incoming\inc_shell-7.ogg", 1},
-            {"\SIG_Sounds\Impact\incoming\inc_shell-8.ogg", 1},
-            {"\SIG_Sounds\Impact\incoming\inc_shell-9.ogg", 1},
-            {"\SIG_Sounds\Impact\incoming\inc_shell-10.ogg", 1},
             {"\SIG_Sounds\Impact\incoming\inc_shell-11.ogg", 1},
             {"\SIG_Sounds\Impact\incoming\inc_shell-12.ogg", 1},
             {"\SIG_Sounds\Impact\incoming\inc_shell-13.ogg", 1},
             {"\SIG_Sounds\Impact\incoming\inc_shell-14.ogg", 1},
             {"\SIG_Sounds\Impact\incoming\inc_shell-15.ogg", 1},
             {"\SIG_Sounds\Impact\incoming\inc_shell-16.ogg", 1},
-            {"\SIG_Sounds\Impact\incoming\inc_shell-17.ogg", 1}
+            {"\SIG_Sounds\Impact\incoming\inc_shell-17.ogg", 1},
+            {"\squad_expSounds\shells\sounds\120mm_flyby_close_01.ogg", 1}
+            {"\squad_expSounds\shells\sounds\120mm_flyby_close_03.ogg", 1}
+            {"\squad_expSounds\shells\sounds\120mm_flyby_close_05.ogg", 1}
         };
         volume = 1.2;
         range = 125;
