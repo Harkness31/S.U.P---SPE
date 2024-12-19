@@ -394,7 +394,7 @@ class CfgSoundShaders {
             {"\squad_expSounds\shells\sounds\120mm_flyby_close_03.ogg", 1},
             {"\squad_expSounds\shells\sounds\120mm_flyby_close_05.ogg", 1}
         };
-        volume = 1.2;
+        volume = 1.8;
         range = 125;
     };
 };
