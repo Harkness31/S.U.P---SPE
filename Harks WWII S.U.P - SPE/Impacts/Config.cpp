@@ -94,7 +94,7 @@ SoundSetExplosion[]=
 		};		
 	};
 	class SPE_Shell_base: ShellBase{
-		soundSetSonicCrack[] = {"Sig_bulletFlyBy_Hvy_SoundSet"};				
+		soundSetSonicCrack[] = {"TankShellSonicCrack_SoundSet"};				
 		SoundSetExplosion[]=
 		{
 			"Squad_MEDEXP_Explosions_Set",
@@ -104,7 +104,7 @@ SoundSetExplosion[]=
 		};		
 	};
 	class SPE_Bullet_AA_base: BulletBase{	
-		soundSetSonicCrack[] = {"Sig_bulletFlyBy_Hvy_SoundSet"};				
+		soundSetSonicCrack[] = {"Squad_HeavySonicCrack_Sets"};				
 		SoundSetExplosion[]=
 		{
 			"Squad_AutoCannon_Explosions_Set","Squad_AutoCannon_Explosions_2_Set",
@@ -113,7 +113,7 @@ SoundSetExplosion[]=
 		};
 	};	
 	class SPE_SprGr_FlaK_38: SPE_Bullet_AA_base{	
-		soundSetSonicCrack[] = {"Sig_bulletFlyBy_Hvy_SoundSet"};				
+		soundSetSonicCrack[] = {"Squad_HeavySonicCrack_Sets"};				
 		SoundSetExplosion[]=
 		{
 			"Squad_AutoCannon_Explosions_Set","Squad_AutoCannon_Explosions_2_Set",
@@ -122,7 +122,7 @@ SoundSetExplosion[]=
 		};
 	};	
 	class SPE_Bullet_AP_base: BulletBase{	
-		soundSetSonicCrack[] = {"Sig_bulletFlyBy_Hvy_SoundSet"};				
+		soundSetSonicCrack[] = {"Squad_HeavySonicCrack_Sets"};				
 		SoundSetExplosion[]=
 		{
 			"Squad_AutoCannon_Explosions_Set","Squad_AutoCannon_Explosions_2_Set",
