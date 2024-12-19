@@ -4,7 +4,7 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = 0.1;
         requiredAddons[] = {
-            "Sig_soundsa3_COMPAT_CDLC_SPE"
+            "Sig_soundsa3_COMPAT_CDLC_SPE",
             "PS44_AMZ_Impacts",
             "SIG_Soundsa3_SH44_config_impacts",
             "WW2_SPE_Assets_s_Weapons_Ammo_s",
@@ -390,8 +390,8 @@ class CfgSoundShaders {
             {"\SIG_Sounds\Impact\incoming\inc_shell-15.ogg", 1},
             {"\SIG_Sounds\Impact\incoming\inc_shell-16.ogg", 1},
             {"\SIG_Sounds\Impact\incoming\inc_shell-17.ogg", 1},
-            {"\squad_expSounds\shells\sounds\120mm_flyby_close_01.ogg", 1}
-            {"\squad_expSounds\shells\sounds\120mm_flyby_close_03.ogg", 1}
+            {"\squad_expSounds\shells\sounds\120mm_flyby_close_01.ogg", 1},
+            {"\squad_expSounds\shells\sounds\120mm_flyby_close_03.ogg", 1},
             {"\squad_expSounds\shells\sounds\120mm_flyby_close_05.ogg", 1}
         };
         volume = 1.2;
