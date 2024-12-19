@@ -61,7 +61,7 @@ class CfgWeapons{
 		class Single: Mode_SemiAuto{
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundsetshot[] = {"Squad_M24_Sets","Large_Reflection_DMR_SoundSet","SPE_rifle2_Tail_SoundSet","SPAR_17_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundsetshot[] = {"PS_Springfield_Sets","PS_Springfield2_Sets","SPE_rifle2_Tail_SoundSet","SPAR_17_Tail_SoundSet","Squad762_BulletCasings_Sets","Large_Reflection_DMR_SoundSet"};
 			};
 		};
 		class Far: Single{
