@@ -57,6 +57,23 @@ class CfgWeapons{
 			showToPlayer = 0;
 		};
 	};
+	class SPE_MAS_36: SPE_RIFLE{
+		class Single: Mode_SemiAuto{
+			class baseSoundModeType;
+			class StandardSound: baseSoundModeType{
+				soundsetshot[] = {"Squad_M24_Sets","Large_Reflection_DMR_SoundSet","SPE_rifle2_Tail_SoundSet","SPAR_17_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+			};
+		};
+		class Far: Single{
+			showToPlayer = 0;
+		};
+		class Medium: Single{
+			showToPlayer = 0;
+		};
+		class Short: Single{
+			showToPlayer = 0;
+		};
+	};
 	class SPE_G43: SPE_RIFLE{
 		class Single: Mode_SemiAuto{
 			class baseSoundModeType;
