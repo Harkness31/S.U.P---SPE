@@ -4,6 +4,7 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = 0.1;
         requiredAddons[] = {
+            "Sig_soundsa3_COMPAT_CDLC_SPE"
             "PS44_AMZ_Impacts",
             "SIG_Soundsa3_SH44_config_impacts",
             "WW2_SPE_Assets_s_Weapons_Ammo_s",
