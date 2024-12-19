@@ -122,7 +122,7 @@ SoundSetExplosion[]=
 		};
 	};	
 	class SPE_Bullet_AP_base: BulletBase{	
-		soundSetSonicCrack[] = {"Squad_HeavySonicCrack_Sets"};				
+		soundSetSonicCrack[] = {"TankShellSonicCrack_SoundSet"};				
 		SoundSetExplosion[]=
 		{
 			"Squad_AutoCannon_Explosions_Set","Squad_AutoCannon_Explosions_2_Set",
