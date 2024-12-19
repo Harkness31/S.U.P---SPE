@@ -8,9 +8,9 @@ class CfgPatches {
 	};
 };
 
-class Mode_SemiAuto;	// External class reference
-class Mode_Burst;	// External class reference
-class Mode_FullAuto;	// External class reference
+class Mode_SemiAuto;
+class Mode_Burst;
+class Mode_FullAuto;
 
 class CfgWeapons{
 	class Pistol_Base_F;
@@ -39,42 +39,6 @@ class CfgWeapons{
 			};
 		};
 	};	
-	class SPE_Shotgun;
-	class SPE_Model_37_Trenchgun: SPE_Shotgun{
-		class Single: Mode_SemiAuto{
-			class baseSoundModeType;
-			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {};
-			};
-		};
-	};
-	class SPE_Fusil_Mle_208_12: SPE_Shotgun{
-		class Single: Mode_SemiAuto{
-			class baseSoundModeType;
-			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {};
-			};
-		};
-		class Double: Single{};
-		class Single_Close: Single{
-			showToPlayer = 0;
-		};
-		class Single_Far: Single_Close{};
-	};
-	class SPE_Fusil_Mle_208_12_Sawedoff: SPE_Fusil_Mle_208_12{
-		class Single: Single{
-			class baseSoundModeType;
-			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {};
-			};
-		};
-		class Double: Single{};
-		class Single_Close: Single{
-			showToPlayer = 0;
-		};
-		class Single_Far: Single_Close{};
-	};
-};
 
 class CfgSounds{
 	class SPE_emptyBoltSnap_1911{
