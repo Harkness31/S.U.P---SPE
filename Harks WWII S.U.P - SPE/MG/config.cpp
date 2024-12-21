@@ -449,7 +449,7 @@ class CfgWeapons{
 			soundBurst = 0;
 			class baseSoundModeType;
 			class StandardSound: baseSoundModeType{
-				soundSetShot[] = {""PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
+				soundSetShot[] = {"PSMG34_Sets","Medium_Reflection_Capped_SoundSet","SPE_rifle_med_Tail_SoundSet","SyndikatLMG_Tail_SoundSet","Squad762_BulletCasings_Sets"};
 			};
 		};
 	};	
